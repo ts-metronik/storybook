@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "storybook": "npm run ng -- run angular13-storybook-test:storybook",
+    "storybook2": "start-storybook -p 9006",
     "build-storybook": "npm run docs:json && build-storybook"
   },
   "private": true,

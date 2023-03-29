@@ -1,4 +1,5 @@
 {
   "installDependencies": true,
-  "startCommand": "yarn storybook"
+  "startCommand_old": "yarn storybook",
+  "startCommand": "npm run storybook"
 }
